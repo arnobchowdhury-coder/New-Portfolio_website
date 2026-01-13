@@ -8,7 +8,7 @@ function App() {
     <div className="bg-[#171d32] h-auto w-full overflow-hidden">
       <Navbar></Navbar>
       <Home></Home>
-      <About />
+      <About></About>
       <Experience></Experience>
 
     </div>
